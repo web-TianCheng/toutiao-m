@@ -1,5 +1,6 @@
 <template>
   <div id="app">
+    <div>123</div>
     <i class="toutiao icon-toutiaodianzan"></i>
     <van-cell-group>
   <van-cell title="单元格" value="内容" />
