@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    my
+    <i class="toutiao icon-toutiaodianzan"></i>
     <router-view/>
   </div>
 </template>
